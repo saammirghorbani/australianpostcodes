@@ -1320,12 +1320,12 @@ id,postcode,locality,state,long,lat,dc,type,status,sa3,sa3name,sa4,sa4name
 2716,2233,WATERFALL,NSW,150.9918,-34.1424,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
 2717,2233,WORONORA HEIGHTS,NSW,151.0306,-34.0304,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
 2718,2233,YARRAWARRAH,NSW,151.0321,-34.0552,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
-2719,2234,ALFORDS POINT,NSW,151.004412,-34.021938,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
-2720,2234,BANGOR,NSW,151.004412,-34.021938,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
-2721,2234,BARDEN RIDGE,NSW,151.004412,-34.021938,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
-2722,2234,ILLAWONG,NSW,151.004412,-34.021938,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
-2723,2234,LUCAS HEIGHTS,NSW,151.004412,-34.021938,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
-2724,2234,MENAI,NSW,151.004412,-34.021938,MENAI CENTRAL LPO,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
+2719,2234,ALFORDS POINT,NSW,151.0214,-33.9848,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
+2720,2234,BANGOR,NSW,151.0273,-34.0191,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
+2721,2234,BARDEN RIDGE,NSW,151.01,-34.032,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
+2722,2234,ILLAWONG,NSW,151.0359,-34.0006,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
+2723,2234,LUCAS HEIGHTS,NSW,150.975,-34.049,KIRRAWEE DC,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
+2724,2234,MENAI,NSW,151.0089,-34.0118,MENAI CENTRAL LPO,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
 2725,2234,MENAI CENTRAL,NSW,151.004412,-34.021938,MENAI CENTRAL LPO,Delivery Area,Updated 6-Feb-2020,12802,Sutherland - Menai - Heathcote,128,Sydney - Sutherland
 2726,2250,BUCKETTY,NSW,151.189243,-33.325373,GOSFORD DC,Delivery Area,Updated 6-Feb-2020,11503,Hawkesbury,115,Sydney - Baulkham Hills and Hawkesbury
 2727,2250,CALGA,NSW,151.189243,-33.325373,GOSFORD DC,Delivery Area,Updated 6-Feb-2020,11503,Hawkesbury,115,Sydney - Baulkham Hills and Hawkesbury
@@ -5215,19 +5215,19 @@ id,postcode,locality,state,long,lat,dc,type,status,sa3,sa3name,sa4,sa4name
 5698,2768,PARKLEA,NSW,150.922732,-33.737863,SEVEN HILLS DF,Delivery Area,Updated 6-Feb-2020,11602,Blacktown - North,116,Sydney - Blacktown
 5699,2768,STANHOPE GARDENS,NSW,150.922732,-33.737863,SEVEN HILLS DF,Delivery Area,Updated 6-Feb-2020,11602,Blacktown - North,116,Sydney - Blacktown
 6,2769,THE PONDS,NSW,0,0,SEVEN HILLS DF,Delivery Area,Updated 6-Feb-2020,11602,Blacktown - North,116,Sydney - Blacktown
-5700,2770,BIDWILL,NSW,150.810246,-33.756443,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5701,2770,BLACKETT,NSW,150.810246,-33.756443,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5702,2770,DHARRUK,NSW,150.810246,-33.756443,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5703,2770,EMERTON,NSW,150.810246,-33.756443,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5704,2770,HEBERSHAM,NSW,150.810246,-33.756443,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5705,2770,LETHBRIDGE PARK,NSW,150.810246,-33.756443,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5706,2770,MINCHINBURY,NSW,150.810246,-33.756443,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5707,2770,MOUNT DRUITT,NSW,150.810246,-33.756443,MOUNT DRUITT VILLAGE LPO,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5708,2770,MOUNT DRUITT VILLAGE,NSW,150.810246,-33.756443,MOUNT DRUITT VILLAGE LPO,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5709,2770,SHALVEY,NSW,150.810246,-33.756443,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5710,2770,TREGEAR,NSW,150.810246,-33.756443,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5711,2770,WHALAN,NSW,150.810246,-33.756443,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
-5712,2770,WILLMOT,NSW,150.810246,-33.756443,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5700,2770,BIDWILL,NSW,150.8231,-33.7316,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5701,2770,BLACKETT,NSW,150.8127,-33.7393,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5702,2770,DHARRUK,NSW,150.8159,-33.7481,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5703,2770,EMERTON,NSW,150.8027,-33.75,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5704,2770,HEBERSHAM,NSW,150.8246,-33.746,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5705,2770,LETHBRIDGE PARK,NSW,150.8013,-33.7374,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5706,2770,MINCHINBURY,NSW,150.8369,-33.7896,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5707,2770,MOUNT DRUITT,NSW,150.8194,-33.7722,MOUNT DRUITT VILLAGE LPO,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5708,2770,MOUNT DRUITT VILLAGE,NSW,150.8194,-33.7722,MOUNT DRUITT VILLAGE LPO,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5709,2770,SHALVEY,NSW,150.8057,-33.7271,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5710,2770,TREGEAR,NSW,150.7944,-33.75,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5711,2770,WHALAN,NSW,150.8083,-33.7583,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
+5712,2770,WILLMOT,NSW,150.7924,-33.7254,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,11603,Mount Druitt,116,Sydney - Blacktown
 5713,2773,GLENBROOK,NSW,150.626788,-33.768837,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,12401,Blue Mountains,124,Sydney - Outer West and Blue Mountains
 5714,2773,LAPSTONE,NSW,150.626788,-33.768837,NEPEAN DF,Delivery Area,Updated 6-Feb-2020,12401,Blue Mountains,124,Sydney - Outer West and Blue Mountains
 5715,2774,BLAXLAND,NSW,150.62902,-33.732671,BLAXLAND EAST LPO,Delivery Area,Updated 6-Feb-2020,12401,Blue Mountains,124,Sydney - Outer West and Blue Mountains
