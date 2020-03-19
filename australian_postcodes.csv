@@ -702,29 +702,29 @@ id,postcode,locality,state,long,lat,dc,type,status,sa3,sa3name,sa4,sa4name
 4489,2006,THE UNIVERSITY OF SYDNEY,NSW,151.186507,-33.889219,SYDNEY UNIVERSITY LPO,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
 4490,2007,BROADWAY,NSW,151.19665,-33.883189,BROADWAY POST SHOP,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
 4491,2007,ULTIMO,NSW,151.19665,-33.883189,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4492,2008,CHIPPENDALE,NSW,151.193858,-33.891146,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4493,2008,DARLINGTON,NSW,151.193858,-33.891146,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4492,2008,CHIPPENDALE,NSW,151.1999,-33.8863,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4493,2008,DARLINGTON,NSW,151.1966,-33.8903,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
 4494,2008,GOLDEN GROVE,NSW,151.193858,-33.891146,Sydney Metro,,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
 4495,2009,DARLING ISLAND,NSW,151.193055,-33.871222,Sydney Metro,,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4496,2009,PYRMONT,NSW,151.193055,-33.871222,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4497,2010,DARLINGHURST,NSW,151.212262,-33.884119,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4498,2010,SURRY HILLS,NSW,151.212262,-33.884119,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4496,2009,PYRMONT,NSW,151.1957,-33.8737,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4497,2010,DARLINGHURST,NSW,151.2204,-33.878,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4498,2010,SURRY HILLS,NSW,151.2111,-33.8861,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
 4499,2010,TAYLOR SQUARE,NSW,151.212262,-33.884119,Sydney Metro,,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4500,2011,ELIZABETH BAY,NSW,151.221626,-33.873599,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4500,2011,ELIZABETH BAY,NSW,151.2284,-33.8714,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
 4501,2011,HMAS KUTTABUL,NSW,151.221626,-33.873599,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4502,2011,KINGS CROSS,NSW,151.221626,-33.873599,Sydney Metro,,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4503,2011,POTTS POINT,NSW,151.221626,-33.873599,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4504,2011,RUSHCUTTERS BAY,NSW,151.221626,-33.873599,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4505,2011,WOOLLOOMOOLOO,NSW,151.221626,-33.873599,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4502,2011,KINGS CROSS,NSW,151.2242,-33.8734,Sydney Metro,,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4503,2011,POTTS POINT,NSW,151.2241,-33.868,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4504,2011,RUSHCUTTERS BAY,NSW,151.2285,-33.8743,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4505,2011,WOOLLOOMOOLOO,NSW,151.2223,-33.8704,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
 4506,2012,STRAWBERRY HILLS,NSW,150.931838,-33.726098,STRAWBERRY HILLS BC,Post Office Boxes,Updated 25-Jan-2020,,,,
 4507,2013,STRAWBERRY HILLS,NSW,150.931838,-33.726098,STRAWBERRY HILLS BC,Post Office Boxes,Updated 25-Jan-2020,,,,
-4508,2015,ALEXANDRIA,NSW,151.194825,-33.910105,ALEXANDRIA DF,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4509,2015,BEACONSFIELD,NSW,151.194825,-33.910105,ALEXANDRIA DF,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4510,2015,EVELEIGH,NSW,151.194825,-33.910105,ALEXANDRIA DF,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4511,2016,REDFERN,NSW,151.206211,-33.894912,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4512,2017,WATERLOO,NSW,151.206316,-33.903892,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4513,2017,ZETLAND,NSW,151.206316,-33.903892,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
-4514,2018,EASTLAKES,NSW,151.202697,-33.9233,ALEXANDRIA DF,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4508,2015,ALEXANDRIA,NSW,151.1903,-33.908,ALEXANDRIA DF,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4509,2015,BEACONSFIELD,NSW,151.1999,-33.911,ALEXANDRIA DF,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4510,2015,EVELEIGH,NSW,151.191,-33.895,ALEXANDRIA DF,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4511,2016,REDFERN,NSW,151.2054,-33.893,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4512,2017,WATERLOO,NSW,151.2062,-33.9003,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4513,2017,ZETLAND,NSW,151.2105,-33.908,WATERLOO DELIVERY FACILITY,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
+4514,2018,EASTLAKES,NSW,151.2106,-33.9272,ALEXANDRIA DF,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
 4515,2018,ROSEBERY,NSW,151.202697,-33.9233,ALEXANDRIA DF,Delivery Area,Updated 6-Feb-2020,11703,Sydney Inner City,117,Sydney - City and Inner South
 4516,2019,BANKSMEADOW,NSW,151.207285,-33.946923,ALEXANDRIA DF,Delivery Area,Updated 6-Feb-2020,11701,Botany,117,Sydney - City and Inner South
 4517,2019,BOTANY,NSW,151.207285,-33.946923,ALEXANDRIA DF,Delivery Area,Updated 6-Feb-2020,11701,Botany,117,Sydney - City and Inner South
